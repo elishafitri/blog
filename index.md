@@ -1,2 +1,2 @@
 # welcome to my index.md!
- [ about us ] (about.md)
+ [ about us ](about.md)
