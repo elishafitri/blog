@@ -12,4 +12,4 @@ Welcome to my first post!
 2. That
 3. The other thing.
 
-lalalalala
+This is week one of Creative Coding. So far so good!
