@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My first post"
+title:  "Week One"
 date:   2022-08-21 10:55:58 +1000
 categories: jekyll update
 ---
